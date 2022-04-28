@@ -1,0 +1,14 @@
+.search {
+    background-color: #52D681;
+    color: #000;
+}
+
+.search:hover {
+    background-color: #212529;
+    color: #52D681;
+}
+
+.search:focus {
+    outline: none;
+    box-shadow: none;
+}
